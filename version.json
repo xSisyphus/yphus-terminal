@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "status": "alpha",
+    "release_date": "none",
+    "dependencies": {
+        "python": "3.13.1",
+        "colorama": "0.4.6"
+    }
+}
